@@ -13,6 +13,8 @@
 		90B8E57A1FEB668B001A55C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90B8E5791FEB668B001A55C9 /* Assets.xcassets */; };
 		90B8E57D1FEB668B001A55C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90B8E57B1FEB668B001A55C9 /* LaunchScreen.storyboard */; };
 		90B8E5801FEB668B001A55C9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 90B8E57F1FEB668B001A55C9 /* main.m */; };
+		90B8E5881FEB66B6001A55C9 /* NextViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 90B8E5871FEB66B6001A55C9 /* NextViewController.m */; };
+		90B8E58B1FEB8C8C001A55C9 /* Instance.m in Sources */ = {isa = PBXBuildFile; fileRef = 90B8E58A1FEB8C8C001A55C9 /* Instance.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,10 @@
 		90B8E57C1FEB668B001A55C9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		90B8E57E1FEB668B001A55C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		90B8E57F1FEB668B001A55C9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		90B8E5861FEB66B6001A55C9 /* NextViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NextViewController.h; sourceTree = "<group>"; };
+		90B8E5871FEB66B6001A55C9 /* NextViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NextViewController.m; sourceTree = "<group>"; };
+		90B8E5891FEB8C8C001A55C9 /* Instance.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Instance.h; sourceTree = "<group>"; };
+		90B8E58A1FEB8C8C001A55C9 /* Instance.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Instance.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +73,10 @@
 				90B8E57B1FEB668B001A55C9 /* LaunchScreen.storyboard */,
 				90B8E57E1FEB668B001A55C9 /* Info.plist */,
 				90B8E57F1FEB668B001A55C9 /* main.m */,
+				90B8E5861FEB66B6001A55C9 /* NextViewController.h */,
+				90B8E5871FEB66B6001A55C9 /* NextViewController.m */,
+				90B8E5891FEB8C8C001A55C9 /* Instance.h */,
+				90B8E58A1FEB8C8C001A55C9 /* Instance.m */,
 			);
 			path = 12_21;
 			sourceTree = "<group>";
@@ -143,6 +153,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				90B8E5751FEB668B001A55C9 /* ViewController.m in Sources */,
+				90B8E5881FEB66B6001A55C9 /* NextViewController.m in Sources */,
+				90B8E58B1FEB8C8C001A55C9 /* Instance.m in Sources */,
 				90B8E5801FEB668B001A55C9 /* main.m in Sources */,
 				90B8E5721FEB668B001A55C9 /* AppDelegate.m in Sources */,
 			);
